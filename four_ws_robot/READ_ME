@@ -2,5 +2,5 @@ Make four_wd_ws workspace
 
 
 To start simulator
-$ source four_wd_ws/devel/setup.bash
+$ source devel/setup.bash
 $ roslaunch robot_launch launch_simulation.launch
